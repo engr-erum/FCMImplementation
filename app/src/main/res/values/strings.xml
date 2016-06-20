@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FCMImplementation</string>
+    <string name="title">title</string>
+    <string name="message">message</string>
+    <string name="fcm">Firebase Push Notification</string>
+</resources>
