@@ -1,12 +1,12 @@
 {
   "project_info": {
-    "project_number": "1027951276841",
+    "project_number": "project number",
     "project_id": "default-demo-app-e938e"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1027951276841:android:27d689d63f1b7a06",
+        "mobilesdk_app_id": "mobile sk app id",
         "android_client_info": {
           "package_name": "com.google.samples.quickstart.signin"
         }
