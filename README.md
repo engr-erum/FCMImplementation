@@ -10,7 +10,7 @@ Assign package name for your app in our case "com.sample.fcmimplementation" or y
 Click on "Choose and Configure Services" button.
 
 <b>Step 2</b>
-<img src="https://cloud.githubusercontent.com/assets/3645358/16189096/202a04aa-36f2-11e6-82da-9d73add92082.png" width="100%" title="step 2"></img>
+<img src="https://cloud.githubusercontent.com/assets/3645358/16219793/4b8abfa8-37a2-11e6-8884-123062916c4c.png" width="100%" title="step 2"></img>
 
 Tickmark your service "Cloud Messaging" in case of "FCM"(Firebase Cloud Messaging) and then click on <b>Generate configuration files</b>
 
