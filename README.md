@@ -16,7 +16,7 @@ Tickmark your service "Cloud Messaging" in case of "FCM"(Firebase Cloud Messagin
 
 
 <b>Step 3</b>
-<img src="https://cloud.githubusercontent.com/assets/3645358/16189195/894355e0-36f2-11e6-81cc-c2733bf8910e.png" width="100%" title="step 3"></img>
+<img src="https://cloud.githubusercontent.com/assets/3645358/16219875/bbff65f4-37a2-11e6-85c3-a56ebae54ff6.png" width="100%" title="step 3"></img>
 Here it will generate : 
 <ol>
 <li>Server API Key</li>
