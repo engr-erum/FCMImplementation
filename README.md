@@ -32,6 +32,10 @@ Later you have to add this file in your project inside app Folder.Your folder st
 <img src="https://cloud.githubusercontent.com/assets/3645358/16189336/5b2127a4-36f3-11e6-8651-ef4fc85759b4.png" width="100%" title="step 4"></img>
 Now this is End of required files from google.
 
+<h2>Noted</h2>
+
+if you are going to clone this repo please replace your google-services.json file inside app folder because in this file i have removed my senderKey and app ID.
+
 <b>Happy Coding</b>
 
 
